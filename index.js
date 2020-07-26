@@ -1,1 +1,1 @@
-var greeting = `Welcome Guest!`
+var greeting = `Hello, everybody!`
