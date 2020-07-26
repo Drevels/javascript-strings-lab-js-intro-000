@@ -1,2 +1,2 @@
 var greeting = `Hello, everybody!`
-var greetSpecialGuest = `
+var specialGuest = `Neil deGrasse Tyson` `Hello` + specialGuest + `!`
